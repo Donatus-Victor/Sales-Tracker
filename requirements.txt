@@ -1,13 +1,4 @@
-<<<<<<< HEAD
 streamlit>=1.32.0
 supabase>=2.3.0
 pandas>=2.0.0
 plotly>=5.18.0
-
-
-=======
-streamlit
-supabase
-pandas
-plotly
->>>>>>> ab5ad3753e1d01bb5a96b11f26d3d23fae04167d
